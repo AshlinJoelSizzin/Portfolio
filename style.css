@@ -717,6 +717,8 @@ html {
 
   .intro_description {
     margin-top: 50px;
+    display: flex;
+    flex-direction: column;
   }
 
   .intro_normaltext {
