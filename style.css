@@ -719,6 +719,7 @@ html {
     margin-top: 50px;
     display: flex;
     flex-direction: column;
+    text-align: center;
   }
 
   .intro_normaltext {
