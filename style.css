@@ -12,9 +12,6 @@ html {
 .page {
   min-height: 100vh;
   max-height: auto;
-  /* background-image: url("./background.jpg");
-  background-repeat: no-repeat;
-  background-size: cover; */
   background-color: #111111;
   background-attachment: fixed;
 }
@@ -33,9 +30,6 @@ html {
   padding-top: 30px;
   position: sticky;
   top: 0px;
-  /* background-image: url("./header_bg.jpg");
-  background-repeat: no-repeat;
-  background-size: cover; */
   background-color: #111111;
   background-attachment: fixed;
   z-index: 600;
