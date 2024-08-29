@@ -1657,6 +1657,8 @@ html {
     display: flex;
     flex-direction: column;
     text-align: center;
+    width: 80%;
+    object-fit: fill;
   }
 
   .intro_normaltext {
