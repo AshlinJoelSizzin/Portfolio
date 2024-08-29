@@ -799,6 +799,7 @@ html {
     display: flex;
     flex-direction: column;
     text-align: center;
+    padding: 10px;
     width: 80%;
     object-fit: fill;
   }
