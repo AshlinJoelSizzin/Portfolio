@@ -800,8 +800,6 @@ html {
     flex-direction: column;
     text-align: center;
     padding: 10px;
-    width: 80%;
-    object-fit: fill;
   }
 
   .intro_normaltext {
