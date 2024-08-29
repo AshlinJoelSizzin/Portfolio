@@ -1643,7 +1643,7 @@ html {
   margin-top: 30px;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 480px) {
   .header {
     display: none;
   }
